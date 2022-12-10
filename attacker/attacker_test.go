@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/goleak"
 
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/storage"
 )
 
 func TestMain(m *testing.M) {

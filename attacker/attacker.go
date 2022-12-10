@@ -13,7 +13,7 @@ import (
 
 	vegeta "github.com/NoneTirex/vegeta/v12/lib"
 
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/storage"
 )
 
 const (

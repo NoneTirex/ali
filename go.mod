@@ -1,4 +1,4 @@
-module github.com/nakabonne/ali
+module github.com/NoneTirex/ali
 
 go 1.17
 
