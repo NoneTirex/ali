@@ -4,12 +4,12 @@ import (
 	"context"
 	"testing"
 
+	vegeta "github.com/NoneTirex/vegeta/v12/lib"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	vegeta "github.com/tsenart/vegeta/v12/lib"
 	"go.uber.org/goleak"
 
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/storage"
 )
 
 func TestMain(m *testing.M) {

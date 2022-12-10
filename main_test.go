@@ -11,7 +11,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/nakabonne/ali/attacker"
+	"github.com/NoneTirex/ali/attacker"
 )
 
 func TestValidateMethod(t *testing.T) {

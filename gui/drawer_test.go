@@ -8,8 +8,8 @@ import (
 	"github.com/golang/mock/gomock"
 	"go.uber.org/atomic"
 
-	"github.com/nakabonne/ali/attacker"
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/attacker"
+	"github.com/NoneTirex/ali/storage"
 )
 
 func TestRedrawCharts(t *testing.T) {

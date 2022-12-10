@@ -13,8 +13,8 @@ import (
 	"github.com/mum4k/termdash/widgets/text"
 	"go.uber.org/atomic"
 
-	"github.com/nakabonne/ali/attacker"
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/attacker"
+	"github.com/NoneTirex/ali/storage"
 )
 
 // drawer periodically queries data points from the storage and passes them to the termdash API.

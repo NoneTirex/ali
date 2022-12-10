@@ -10,7 +10,7 @@ import (
 	"github.com/mum4k/termdash/terminal/terminalapi"
 	"go.uber.org/atomic"
 
-	"github.com/nakabonne/ali/attacker"
+	"github.com/NoneTirex/ali/attacker"
 )
 
 func TestKeybinds(t *testing.T) {

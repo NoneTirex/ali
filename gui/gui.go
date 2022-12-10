@@ -15,8 +15,8 @@ import (
 	"github.com/mum4k/termdash/terminal/terminalapi"
 	"go.uber.org/atomic"
 
-	"github.com/nakabonne/ali/attacker"
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/attacker"
+	"github.com/NoneTirex/ali/storage"
 )
 
 const (

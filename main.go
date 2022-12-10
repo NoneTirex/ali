@@ -19,12 +19,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/storage"
 
 	flag "github.com/spf13/pflag"
 
-	"github.com/nakabonne/ali/attacker"
-	"github.com/nakabonne/ali/gui"
+	"github.com/NoneTirex/ali/attacker"
+	"github.com/NoneTirex/ali/gui"
 )
 
 var (

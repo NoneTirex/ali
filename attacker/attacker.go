@@ -11,9 +11,9 @@ import (
 	"net/http"
 	"time"
 
-	vegeta "github.com/tsenart/vegeta/v12/lib"
+	vegeta "github.com/NoneTirex/vegeta/v12/lib"
 
-	"github.com/nakabonne/ali/storage"
+	"github.com/NoneTirex/ali/storage"
 )
 
 const (

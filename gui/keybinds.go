@@ -7,7 +7,7 @@ import (
 	"github.com/mum4k/termdash/keyboard"
 	"github.com/mum4k/termdash/terminal/terminalapi"
 
-	"github.com/nakabonne/ali/attacker"
+	"github.com/NoneTirex/ali/attacker"
 )
 
 func navigateCharts(chartFuncs []func()) func(bool) {
