@@ -3,7 +3,7 @@ package attacker
 import (
 	"time"
 
-	vegeta "github.com/tsenart/vegeta/v12/lib"
+	vegeta "github.com/NoneTirex/vegeta/v12/lib"
 )
 
 // Metrics wraps "vegeta.Metrics" to avoid dependency on it.
